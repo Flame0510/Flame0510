@@ -1,5 +1,7 @@
 # 👋 Ciao! Sono **Michele Tornello**  
-🚀 *Full Stack Developer* | 🎮 *Game Dev* | 🌍 *Innovazione & Creatività*
+🚀 Full Stack Developer | 👨‍💻 Ingegnere Informatico | 🎮 Game Dev | 🌍 Innovazione & Creatività
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk3ZHlqN29weGE2OWhkOGcwbmg0b2J5N3pxZGtmcmVwZHgwdHdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsKnRuALlWsZG/giphy.gif" width="320" alt="Summary" />
 
 ---
 
@@ -9,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flame0510)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micheletornello5@gmail.com)
 [![CV](https://img.shields.io/badge/-Scarica%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://micheletornello.com/CV.pdf)  
-📱 **+39 334 1593912**
+📱 [+39 334 1593912](tel:+393341593912)
 
 ---
 
@@ -140,8 +142,8 @@ Agile, Scrum, Public Speaking
 - **Sprint Sprout**  
   🌱 Videogioco platform 2D in JavaScript, progettato per essere lanciato su Kickstarter.
 
-- **gitemmuort**  
-  😅 Nato come progetto ironico, oggi è un vero tool personale che uso quotidianamente: raccoglie algoritmi avanzati e comandi custom per semplificare operazioni complesse su Git.  
+- **Gitemmuort**  
+  😅 Nato come progetto ironico, oggi è un vero tool personale che uso quotidianamente: raccoglie algoritmi avanzati e comandi custom per semplificare operazioni complesse su Git. (Ancora in sviluppo)
   [GitHub](https://github.com/Flame0510/gitemmuort)
 
 - **Mostra Museo**  
